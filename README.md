@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philipobiorah
 - 👀 I’m interested in Data Analytics, Data Science, Machine Learing, NLP & AI
-- 🌱 I’m currently learning Data Scinece
+- 🌱 I’m currently studying M.Sc Applied Data Science 
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me via: philip.obiorah@outlook.com
 <!---
